@@ -1,24 +1,22 @@
-Participant recipes from Robot Makers @ UBISS 2026
+# Participant recipes from Robot Makers @ UBISS 2026
 
-===
-
-# Breakfasts
+## Breakfasts
 
 Food | Recipe | Author
 ---|---|---
 Buttered toast | https://git.uclalemur.com/ubiss2026/my-recipe | Example
 
-# Meals
+## Meals
 
 Food | Recipe | Author
 ---|---|---
 
-# Drinks
+## Drinks
 
 Food | Recipe | Author
 ---|---|---
 
-# Desserts
+## Desserts
 
 Food | Recipe | Author
 ---|---|---
