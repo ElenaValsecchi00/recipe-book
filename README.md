@@ -4,7 +4,7 @@
 
 Food | Recipe | Author
 ---|---|---
-Buttered toast | https://git.uclalemur.com/ubiss2026/my-recipe | Example
+Buttered toast | https://github.com/robotmaker2026/my-recipe | Robot Makers 2026 staff
 
 ## Meals
 
