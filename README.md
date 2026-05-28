@@ -10,7 +10,7 @@ Buttered toast | https://github.com/robotmaker2026/my-recipe | Robot Makers 2026
 
 Food | Recipe | Author
 ---|---|---
-Pizza | https://github.com/ElenaValsecchi00/recipe-book.git | ElenaValsecchi00
+Pizza | https://github.com/ElenaValsecchi00/my-recipe | ElenaValsecchi00
 
 ## Drinks
 
