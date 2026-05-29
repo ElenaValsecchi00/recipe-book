@@ -11,6 +11,7 @@ Buttered toast | https://github.com/robotmaker2026/my-recipe | Robot Makers 2026
 Food | Recipe | Author
 ---|---|---
 Pizza | https://github.com/ElenaValsecchi00/my-recipe | ElenaValsecchi00
+Burrito | https://github.com/nadira-03/my-recipe | Nadira Tasnim
 
 ## Drinks
 
